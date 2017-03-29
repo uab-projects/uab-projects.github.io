@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.uab.codes
+title: UAB Projects Team
+email: mail@uab.codes
+email_name: UAB%20Projects%20Team
+email_subject: I%20checked%20your%20website
+author: davidlj95
+description: > # "Write an awesome description for your new site here.
+  Portfolio of UAB Projects Team
+copyright: 'Copyright &copy; 2017 UAB Projects Team. All Rights Reserved.'
+credits: > # "Credits
+  Credits: <a href="https://github.com/davidlj95" target="_blank">davidlj95</a>
+  &amp; <a href="https://github.com/ccebrecos" target="_blank">ccebrecos</a>
+repository: uab-projects/uab-projects.github.io
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems:
+- jekyll-email-protect
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/uab-projects

@@ -1,0 +1,17 @@
+---
+layout: default
+img: big-data.png
+category: Services
+title: A Pythonian map-reduce implementation
+description: |
+---
+  We knew what _big data_ was since last year we were taught in _Distributed Systems_ how systems can be prepared to deal with lots of data and be able to deal efficiently with the data (and installed _Hadoop_!). That was the _sysadmins_ point of view.
+
+  This year, in the _Software Techniques and Architechtures_ subject, we've been taught what is the trendy term _big data_ again, but now focusing on how to design a software architecture in order to deal with big amounts of data. Here is when _map-reduce_ paradigm comes.
+
+  In this project, we're asked to use whatever language we desire (we choose Python, of course\*) and implement a _map-reduce_ architecture that, as an example, counts the words or letters in a text file (a really big text file!)
+
+  Checkout how our projected ended looking:
+  [https://github.com:uab-projects/ats-map-reduce](https://github.com:uab-projects/ats-map-reduce)
+
+  _\*it's academical and we're not worrying about high-end performance, otherwise we'd have chosen C++ or something compiled. (We know you were thinking that)_
