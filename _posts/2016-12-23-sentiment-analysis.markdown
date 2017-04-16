@@ -12,4 +12,4 @@ Given a dataset with a few tweets (a million or more) as a _ground-truth_ that w
 You can check your account to see if you're being positive on Twitter or not. Surprisingly most accounts on Twitter had more than 50% positive tweets (yes, even <a href="https://twitter.com/realDonaldTrump">Donald Trump</a>)
 
 Checkout how we made it at:  
-[https://github.com:uab-projects/bayesian-tweets](https://github.com:uab-projects/bayesian-tweets)
+[https://github.com/uab-projects/bayesian-tweets](https://github.com/uab-projects/bayesian-tweets)

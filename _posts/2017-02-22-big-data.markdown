@@ -12,6 +12,6 @@ description: |
   In this project, we're asked to use whatever language we desire (we choose Python, of course\*) and implement a _map-reduce_ architecture that, as an example, counts the words or letters in a text file (a really big text file!)
 
   Checkout how our projected ended looking:
-  [https://github.com:uab-projects/ats-map-reduce](https://github.com:uab-projects/ats-map-reduce)
+  [https://github.com/uab-projects/map-reduce](https://github.com/uab-projects/map-reduce)
 
   _\*it's academical and we're not worrying about high-end performance, otherwise we'd have chosen C++ or something compiled. (We know you were thinking that)_
